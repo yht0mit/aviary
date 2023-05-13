@@ -14,7 +14,7 @@ LICENSE = "MIT"
 
 REQUIRED = [
     "numpy == 1.17.*",
-    "pandas == 0.23.*",
+    "pandas == 1.3.*",
     "Shapely == 1.6.*",
     "geojson == 2.5.*",
     "geographiclib == 1.5.*",
