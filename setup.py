@@ -13,14 +13,14 @@ VERSION = None
 LICENSE = "MIT"
 
 REQUIRED = [
-    "numpy>=1.17.*",
-    "pandas>=0.23.*",
-    "Shapely>=1.6.*",
-    "geojson>=2.5.*",
-    "geographiclib>=1.5.*",
-    "pyproj>=2.2.*",
-    "pytest>=4.1.*",
-    "jsonpath_rw_ext>=1.2.*"
+    "numpy == 1.17.*",
+    "pandas == 0.23.*",
+    "Shapely == 1.6.*",
+    "geojson == 2.5.*",
+    "geographiclib == 1.5.*",
+    "pyproj == 2.2.*",
+    "pytest == 4.1.*",
+    "jsonpath_rw_ext == 1.2.*"
 ]
 
 EXTRAS = {
